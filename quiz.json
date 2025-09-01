@@ -37,6 +37,18 @@
         "Jonas"
       ],
       "answerIndex": 1
+    },
+    {
+      "id": 4,
+      "category": "Games",
+      "text": "Qual o melhor sorvete?",
+      "options": [
+        "Milho",
+        "Ninho",
+        "Menta",
+        "Baunilha"
+      ],
+      "answerIndex": 4
     }
   ]
 }
