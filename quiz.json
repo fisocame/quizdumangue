@@ -1,27 +1,8 @@
 {
   "title": "Meu Quiz de Exemplo",
   "questions": [
-    {
-      "id": 1,
-      "category": "IoT",
-      "text": "O que significa IoT?",
-      "options": ["Internet of Things", "Input of Tasks", "Internal of Tech", "Internet of Tools"],
-      "answerIndex": 0,
-      "explanation": "IoT = Internet of Things."
-    },
-    {
-      "id": 2,
-      "category": "Games",
-      "text": "Qual engine é muito usada com C#?",
-      "options": ["Godot", "Unity", "Construct", "GameMaker"],
-      "answerIndex": 1
-    }
-    {
-      "id": 3,
-      "category": "Games",
-      "text": "Quem é o prof. mais bonito?",
-      "options": ["Arnott", "Filipe", "Marcio", "Jonas"],
-      "answerIndex": 1
-    }
+    { "id": 1, "category": "IoT", "text": "O que significa IoT?", "options": ["Internet of Things", "Input of Tasks", "Internal of Tech", "Internet of Tools"], "answerIndex": 0, "explanation": "IoT = Internet of Things." },
+    { "id": 2, "category": "Games", "text": "Qual engine é muito usada com C#?", "options": ["Godot", "Unity", "Construct", "GameMaker"], "answerIndex": 1 },
+    { "id": 3, "category": "Games", "text": "Quem é o prof. mais bonito?", "options": ["Arnott", "Filipe", "Marcio", "Jonas"], "answerIndex": 1 }
   ]
 }
