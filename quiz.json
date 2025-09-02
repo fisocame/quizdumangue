@@ -61,6 +61,18 @@
         "Baaawmdoajwkdunilha"
       ],
       "answerIndex": 4
+    },
+          {
+      "id": 6,
+      "category": "Games",
+      "text": "Qual o melhor salmão croc?",
+      "options": [
+        "Shirley",
+        "Va Long",
+        "Ihu",
+        "Ahi"
+      ],
+      "answerIndex": 1
     }
   ]
 }
