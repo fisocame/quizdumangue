@@ -73,6 +73,18 @@
         "Ahi"
       ],
       "answerIndex": 1
+    },
+              {
+      "id": 7,
+      "category": "Games",
+      "text": "Qual cadeira é mais interessante?",
+      "options": [
+        "RV",
+        "Animação",
+        "Nilson",
+        "Ricardo"
+      ],
+      "answerIndex": 0
     }
   ]
 }
