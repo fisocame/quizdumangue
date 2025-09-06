@@ -11,71 +11,8 @@
         "Internal of Tech",
         "Internet of Tools"
       ],
-      "answerIndex": 0,
-      "explanation": "IoT = Internet of Things."
-    },
-    {
-      "id": 2,
-      "category": "Games",
-      "text": "Qual engine é muito usada com C#?",
-      "options": [
-        "Godot",
-        "Unity",
-        "Construct",
-        "GameMaker"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 3,
-      "category": "Games",
-      "text": "Quem é o prof. mais bonito?",
-      "options": [
-        "Arnott",
-        "Filipe",
-        "Marcio",
-        "Jonas"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 4,
-      "category": "Games",
-      "text": "Qual o melhor sorvete?",
-      "options": [
-        "Milho",
-        "Ninho",
-        "Menta",
-        "Baunilha"
-      ],
-      "answerIndex": 4
-    },
-        {
-      "id": 5,
-      "category": "Games",
-      "text": "Qual o melhor livro?",
-      "options": [
-        "Harry Potter",
-        "Sr dos Aneis",
-        "Awidjaowjd",
-        "Baaawmdoajwkdunilha"
-      ],
-      "answerIndex": 4
-    },
-          {
-      "id": 6,
-      "category": "Games",
-      "text": "Qual o melhor salmão croc?",
-      "options": [
-        "Shirley",
-        "Va Long",
-        "Ihu",
-        "Ahi"
-      ],
-      "answerIndex": 1
-    },
               {
-      "id": 7,
+      "id": 2,
       "category": "Games",
       "text": "Qual cadeira é mais interessante?",
       "options": [
